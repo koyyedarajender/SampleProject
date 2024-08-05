@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+  <entry key="tmrtest_URL">https://whsstest.integrumsystems.com/tmrtest/emsearch.nsf/fs_MSN?OpenFrameSet</entry>
+  <entry key="tmrtest_userName">anand.shah@mitratech.com</entry>
+  <entry key="tmrtest_password">InitPass2023</entry>
+  <entry key="tmrtest_fieldCategoryName">AUD Findings</entry>
+  <entry key="tmrtest_sectionCategoryName">Audit Findings</entry>
+  <entry key="tmrtest_formTemplateCategoryName">Audit Findings</entry>
+
+  <entry key="tmrdev_URL">https://whssdev.integrumsystems.com/tmrdev/emsearch.nsf/fs_MSN?OpenFrameSet</entry>
+  <entry key="tmrdev_userName">anand.shah@mitratech.com</entry>
+  <entry key="tmrdev_password">InitPass2023</entry>
+  <entry key="tmrdev_fieldCategoryName">AUD Findings</entry>
+  <entry key="tmrdev_sectionCategoryName">Audit Findings</entry>
+  <entry key="tmrdev_formTemplateCategoryName">Audit</entry>
+
+  <entry key="epatest_URL">https://loginepa.integrumsystems.com/epatest/emsearch.nsf/fs_msn</entry>
+  <entry key="epatest_userName">jacky yang</entry>
+  <entry key="epatest_password">InitPass2020</entry>
+  <entry key="epatest_fieldCategoryName">ACC Accident</entry>
+  <entry key="epatest_sectionCategoryName">ACC Accident</entry>
+  <entry key="epatest_formTemplateCategoryName">Accident Report</entry>
+
+  <entry key="eatest_URL">https://loginea.integrumsystems.com/eatest/emsearch.nsf/fs_MSN?OpenFrameSet</entry>
+  <entry key="eatest_userName">Shariful Islam</entry>
+  <entry key="eatest_password">InitPass2022</entry>
+  <entry key="eatest_fieldCategoryName">Admin</entry>
+  <entry key="eatest_sectionCategoryName">Admin</entry>
+  <entry key="eatest_formTemplateCategoryName">Admin</entry>
+
+  <entry key="grandmaster_URL">https://md12.integrumsystems.com/grandmaster/emsearch.nsf/fs_msn</entry>
+  <entry key="grandmaster_userName">lakshmi kalpana</entry>
+  <entry key="grandmaster_password">InitPass2023</entry>
+  <entry key="grandmaster_fieldCategoryName">Alert Additional Fields</entry>
+  <entry key="grandmaster_sectionCategoryName">Arran Test</entry>
+  <entry key="grandmaster_formTemplateCategoryName">Arran Test Forms</entry>
+
+  <entry key="cocaCola_URL">https://cceplivetest.integrumsystems.com/cceplivetest/emsearch.nsf/fs_MSN?OpenFrameSet</entry>
+  <entry key="cocaCola_userName">samjith.francis@ccep.com</entry>
+  <entry key="cocaCola_password">Calvary777-</entry>
+  <entry key="cocaCola_fieldCategoryName">Action Management</entry>
+  <entry key="cocaCola_sectionCategoryName">Action Management</entry>
+  <entry key="cocaCola_formTemplateCategoryName">Action Management</entry>
+
+  <entry key="bt03test_URL">https://bt03test.integrumsystems.com/bt03test/emsearch.nsf/fs_MSN?OpenFrameSet</entry>
+  <entry key="bt03test_userName">mahesh.chandar@mitratech.com</entry>
+  <entry key="bt03test_password">InitPass2023</entry>
+  <entry key="bt03test_fieldCategoryName">AIR Incident</entry>
+  <entry key="bt03test_sectionCategoryName">AIR Incident</entry>
+  <entry key="bt03test_formTemplateCategoryName">AIR_Incident</entry>
+
+
+</properties>
